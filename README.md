@@ -5,7 +5,7 @@
 
 ### 🧩 Sobre mim
 
-Profissional com experiência em **elaboração de relatórios financeiros e gerenciais**, **planejamento orçamentário**, **gestão de recursos humanos** e **documentação legal**. Atuo na **otimização da rentabilidade** e na **adoção de tecnologias** para manter um ambiente atualizado e integrado.
+Profissional com experiência em **elaboração de relatórios financeiros e gerenciais**, **planejamento orçamentário**, **gestão estratégica** e **documentação legal**. Atuo na **otimização da rentabilidade** e na **adoção de tecnologias** para manter um ambiente atualizado e integrado.
 
 💼 Capacitado em **notação BPMN**, **modelagem relacional** e **banco de dados**, com habilidades sólidas em **SQL** e **MySQL**.  
 🛠️ Experiência com **fluxogramas eficientes**, **metodologias ágeis**, **OKR** e **dashboards analíticos** em **Power BI** e **Excel**.  
