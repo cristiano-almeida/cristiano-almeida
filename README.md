@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Cristiano Márcio de Araújo Almeida</h1>
+<h1 align="center">Cristiano Márcio de Araújo Almeida</h1>
 <h3 align="center">Professor | Consultor Administrativo | Especialista em Gestão e Tecnologia</h3>
 
 ---
